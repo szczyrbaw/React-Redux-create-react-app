@@ -1,0 +1,19 @@
+{
+  "name": "zad2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szczyrbaw/React-Redux-create-react-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/szczyrbaw/React-Redux-create-react-app/issues"
+  },
+  "homepage": "https://github.com/szczyrbaw/React-Redux-create-react-app#readme"
+}
